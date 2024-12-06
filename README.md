@@ -1,1 +1,1 @@
-# Loan_Approval_prediction_Project
+# Loan_Approval_Prediction_Project
