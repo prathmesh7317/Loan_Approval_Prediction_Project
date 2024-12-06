@@ -1,17 +1,16 @@
 # Loan_Approval_Prediction_Project_Using_Machine_Learning
 
 This project covers the whole process from problem statement to model development and evaluation:
-
-1.Problem Statement
-2.Hypothesis Generation
-3.Data Collection
-4.Exploratory Data Analysis (EDA)
-5.Feature Selection
-6.Feature Engineering
-6.Model Training 
-7.Evaluation
-8. API Testing(via POSTMAN)
-9. Deployment on AWS
+###### 1.Problem Statement
+###### 2.Hypothesis Generation
+###### 3.Data Collection
+###### 4.Exploratory Data Analysis (EDA)
+###### 5.Feature Selection
+###### 6.Feature Engineering
+###### 6.Model Training 
+###### 7.Evaluation
+###### 8. API Testing(via POSTMAN)
+###### 9. Deployment on AWS
 
 
 ## *Problem Statement*
